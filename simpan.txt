@@ -1,0 +1,14 @@
+1	1	1	1	1	1
+1	01-11-2023	AK01	Gunting Kain	3	Baik	
+2	2	2	2	2	2
+1	01-11-2023	AK01	Gunting Kain	3	Baik	
+2	02-11-2023	AK02	Gunting Benang	5	Cukup Baik	
+1	1	1	1	1	1
+1	01-11-2023	AK01	Meteran Jahit	4	Baik	
+2	2	2	2	2	2
+1	01-11-2023	AK01	Meteran Jahit	4	Baik	
+2	02-11-2023	AK02	Penggaris Pola	3	Cukup Baik	
+3	3	3	3	3	3
+1	01-11-2023	AK01	Meteran Jahit	4	Baik	
+2	02-11-2023	AK02	Penggaris Pola	3	Cukup Baik	
+3	03-11-2023	AK03	Jarum Mesin Jahit	6	Baik	
